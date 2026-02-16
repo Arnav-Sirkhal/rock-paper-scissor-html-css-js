@@ -9,11 +9,12 @@ The game allows users to play against the computer, which makes random choices. 
 ## 📑 Table of Contents
 
 - [About the Project](#about-the-project)
+- [Live Demo](#-live-demo)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Game Logic](#game-logic)
 - [Live Score Tracking](#live-score-tracking)
 - [Result Message System](#result-message-system)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [How to Run the Project](#how-to-run-the-project)
@@ -36,7 +37,30 @@ This is a browser-based implementation of the classic **Rock Paper Scissors game
 
 ---
 
+## 🌐 Live Demo
+
+Play the game here:
+👉 https://arnav-sirkhal.github.io/rock-paper-scissor-html-css-js/
+
+---
+
+## 📸 Screenshots
+
+### 🟢 Winning Message
+
+![Winning Message](images/win-message.png)
+
+### 🔴 Losing Message
+
+![Losing Message](images/lose-message.png)
+
+### 🔵 Draw Message
+
+![Draw Message](images/draw-message.png)
+
 ## ✨ Features
+
+---
 
 - 🎮 Play against computer
 - 📊 Live score tracking
@@ -137,22 +161,6 @@ msg.style.backgroundColor = "#b11c1c";
 msg.innerText = "Game was Draw. Play again";
 msg.style.backgroundColor = "#081b31";
 ```
-
----
-
-## 📸 Screenshots
-
-### 🟢 Winning Message
-
-![Winning Message](images/win-message.png)
-
-### 🔴 Losing Message
-
-![Losing Message](images/lose-message.png)
-
-### 🔵 Draw Message
-
-![Draw Message](images/draw-message.png)
 
 ---
 
