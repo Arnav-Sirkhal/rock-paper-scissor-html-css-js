@@ -18,6 +18,8 @@ The game allows users to play against the computer, which makes random choices. 
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [How to Run the Project](#how-to-run-the-project)
+- [Code Explanation](#code-explanation)
+- [Color Reference](#color-reference)
 - [Author](#author)
 
 ---
