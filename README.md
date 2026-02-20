@@ -200,13 +200,13 @@ rock-paper-scissors-game/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors-game.git
+git clone https://github.com/your-username/rock-paper-scissor-html-css-js.git
 ```
 
 ### Step 2: Open folder
 
 ```bash
-cd rock-paper-scissors-game
+cd rock-paper-scissor-html-css-js
 ```
 
 ### Step 3: Open in browser
