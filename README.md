@@ -176,7 +176,7 @@ msg.style.backgroundColor = "#081b31";
 ## 📁 Project Structure
 
 ```
-rock-paper-scissors-game/
+rock-paper-scissor-html-css-js/
 │
 ├── index.html
 ├── style.css
