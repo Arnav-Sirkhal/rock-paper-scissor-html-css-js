@@ -39,7 +39,7 @@ This is a browser-based implementation of the classic **Rock Paper Scissors game
 ## 🌐 Live Demo
 
 Play the game here:
-👉 https://arnav-sirkhal.github.io/rock-paper-scissor-html-css-js/
+👉 https://rock-paper-scissor-html-css-js-chi.vercel.app/
 
 ---
 
